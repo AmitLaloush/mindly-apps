@@ -1,3 +1,4 @@
+import org.gradle.api.artifacts.ExternalModuleDependency
 
 object Versions {
     val min_sdk = 21
